@@ -10,7 +10,7 @@ It uses the following tech stack:
 - Node
 - Socket.io
 
-## Below are some screenshots of the platform and its uses:
+## Below are the screenshots of the platform and its uses:
 
 ### 1. Overview of the platform
 
