@@ -3,6 +3,7 @@ let isMouseDown = false;
 board.addEventListener("mousedown", function(e) {
   ctx.beginPath();
   let top = getLocation();
+  let temptop = getLocation();
   ctx.moveTo(e.clientX, e.clientY - top);
   isMouseDown = true;
 
